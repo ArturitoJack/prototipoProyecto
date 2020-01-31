@@ -1,0 +1,15 @@
+{
+  "name": "sistemascada",
+  "version": "0.0.1",
+  "description": "Prototipo sistema SCADA",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Jazmin",
+  "license": "ISC",
+  "dependencies": {
+    "countries-list": "^2.5.0"
+  }
+}
